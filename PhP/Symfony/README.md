@@ -11,6 +11,7 @@ Min project setup
 - composer require annotations
 - composer require form validator orm
 - composer require symfony/twig-bundle
+- composer require doctrine/doctrine-fixtures-bundle
 
 To create a controller:
 - php bin/console make:controller
