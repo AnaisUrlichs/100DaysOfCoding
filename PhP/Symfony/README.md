@@ -31,6 +31,6 @@ Create and entity for the database and manage migrations:
 - php bin/console doctrone:migration:migrate
 
 Docker-set-up First-steps
-- This post
+- This post https://blog.rafalmuszynski.pl/how-to-configure-docker-for-symfony-4-applications/
 - Start: docker-compose up -d
 - End: docker-compose down
