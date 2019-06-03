@@ -29,3 +29,8 @@ Create and entity for the database and manage migrations:
 - php bin/console make:migration
 - (Check if the migration does the right changes to your database schema)
 - php bin/console doctrone:migration:migrate
+
+Docker-set-up First-steps
+- This post
+- Start: docker-compose up -d
+- End: docker-compose down
