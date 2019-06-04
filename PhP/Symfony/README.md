@@ -34,3 +34,6 @@ Docker-set-up First-steps
 - This post https://blog.rafalmuszynski.pl/how-to-configure-docker-for-symfony-4-applications/
 - Start: docker-compose up -d
 - End: docker-compose down
+
+Set -up Json API:
+- https://codereviewvideos.com/course/beginners-guide-back-end-json-api-front-end-2018/video/setup-symfony-4-fosrestbundle
