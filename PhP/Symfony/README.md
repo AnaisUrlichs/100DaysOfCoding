@@ -28,7 +28,7 @@ Create and entity for the database and manage migrations:
 - php bin/console make:entity
 - php bin/console make:migration
 - (Check if the migration does the right changes to your database schema)
-- php bin/console doctrone:migration:migrate
+- php bin/console doctrine:migration:migrate
 
 Docker-set-up First-steps
 - This post https://blog.rafalmuszynski.pl/how-to-configure-docker-for-symfony-4-applications/
