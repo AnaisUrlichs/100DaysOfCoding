@@ -8,6 +8,4 @@ These files & coding exercises build upon the repository front-end-development, 
 - JS frameworks
   - React
   - Vue
-- Node.js
-- Ruby
-- Ruby on Rails 
+- Node.js 
